@@ -1,4 +1,4 @@
-# Projeto-AppNotas-
+# Projeto AppNotas
 Aplicativo de Notas utilizando as tecnologia de React Native e Firebase
 
 O conceito do projeto é um aplicativo de Bloco de notas desenvolvido em React-Native em forma de lista. Então 
